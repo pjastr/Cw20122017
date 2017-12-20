@@ -1,0 +1,5 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication59\ConsoleApplication59\obj\Debug\ConsoleApplication59.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication59\ConsoleApplication59\obj\Debug\ConsoleApplication59.pdb
